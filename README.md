@@ -1,5 +1,5 @@
 
-#Python OpenAI Chat with Asynchronous Completion Calls
+# Python OpenAI Chat with Asynchronous Completion Calls
 
 This `README.md` explains how to use the OpenAI's post endpoint ` 'https://api.openai.com/v1/chat/completions',` asynchronously with the provided Python script using `aiohttp` and `asyncio`. The API key is securely stored as an environment variable using **PowerShell**.
 
